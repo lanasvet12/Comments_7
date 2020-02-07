@@ -1,7 +1,7 @@
 {
-  "name": "inkitt_comments_splendorr",
+  "name": "lana",
   "version": "0.0.0",
-  "description": "Example of real-time text comments",
+  "description": "comment",
   "dependencies": {
     "axis": "^0.4.0",
     "body-parser": "~1.13.0",
