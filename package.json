@@ -27,23 +27,7 @@
     "gulp-react": "^3.0.1",
     "gulp-sourcemaps": "^1.5.2",
     "gulp-stylus": "~2.0.4",
-    "
-    
-    
+    "reactify": "^1.1.1"
   },
-  "testling": {
-    "harness": "mocha-bdd",
-    "files": "test/*.js",
-    "browsers": [
-      "ie/7..latest",
-      "chrome/latest",
-      "firefox/latest",
-      "safari/latest",
-      "iphone/latest",
-      "android/latest"
-    ]
-  },
-  "scripts": {
-    "test": "./node_modules/.bin/mocha"
-  }
+ 
 }
