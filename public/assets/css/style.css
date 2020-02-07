@@ -587,6 +587,12 @@ body {
 	height: 80px;
   color: white;
 }
+.footer p {
+	padding:20px;
+	text-align:center;
+        color: white;
+	font-size: calc(10px + 2vmin);
+}
 
 .App-link {
   color: #61dafb;
