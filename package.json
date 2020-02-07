@@ -2,8 +2,21 @@
   "name": "Lana",
   "version": "0.0.0",
   "description": "comment2",
+  
   "dependencies": {
-      },
+    "axis": "^0.4.0",
+    "body-parser": "~1.13.0",
+    "express": "~4.12.4",
+    "express-handlebars": "^2.0.1",
+    "findandreplacedomtext": "^0.4.4",
+    "jquery": "~2.1.4",
+    "marked": "^0.3.3",
+    "nib": "^1.1.0",
+    "react": "^0.13.3",
+    "react-jade": "^2.4.0",
+    "rupture": "^0.6.1",
+    "underscore": "~1.8.3"
+  },
   "testling": {
     "harness": "mocha-bdd",
     "files": "test/*.js",
