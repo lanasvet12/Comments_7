@@ -1,5 +1,5 @@
 {
-  "name": "inkitt_comments_splendorr",
+  "name": "",
   "version": "0.0.0",
   "description": "Example of real-time text comments",
   "dependencies": {
@@ -30,19 +30,4 @@
     "mocha": "~1.18.2",
     "reactify": "^1.1.1"
   },
-  "testling": {
-    "harness": "mocha-bdd",
-    "files": "test/*.js",
-    "browsers": [
-      "ie/7..latest",
-      "chrome/latest",
-      "firefox/latest",
-      "safari/latest",
-      "iphone/latest",
-      "android/latest"
-    ]
-  },
-  "scripts": {
-    "test": "./node_modules/.bin/mocha"
-  }
-}
+  
